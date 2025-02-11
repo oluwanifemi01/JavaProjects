@@ -79,9 +79,9 @@ A Java-based system that monitors soil moisture levels and automatically waters 
 - Button functionality to stop the system may require further implementation.
 - Graph visualization depends on external `StdDraw` library.
 
-## License
+## Small Scale Implementation Presentation
 
-MIT License. See `LICENSE` for details.
+ [Click Here](https://rumble.com/v1zakmq-eecs-1011-minor-project.html) for a small scale implementation of this project.
 
 ---
 
